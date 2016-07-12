@@ -10,7 +10,7 @@ description: >    # 主题简介，可改为博客描述
 
 
 url:              "irisguanhong.github.io" # 添加域名（不需要 http:// 前缀），或使用「/」作为博客根链接，
-baseurl:          "/blog/" # the subpath of your site, e.g. /blog/
+baseurl:           # the subpath of your site, e.g. /blog/
 
 twitter:          # 添加你的 Twitter 用户名
 github:           irisguanhong  # 添加你的 GitHub 用户名
