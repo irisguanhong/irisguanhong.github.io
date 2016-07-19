@@ -9,7 +9,7 @@ description: >    # 主题简介，可改为博客描述
   I found myself in my 30s. Since then, I felt I was sourrounded by joy, curiousity and actualization, which made me feel as if I came back to my 20s again.
 
 
-url:              "/" # 添加域名（不需要 http:// 前缀），或使用「/」作为博客根链接，
+url:              "http://irisguanhong.github.io" # 添加域名（不需要 http:// 前缀），或使用「/」作为博客根链接，
 baseurl:           # the subpath of your site, e.g. /blog/
 
 twitter:          # 添加你的 Twitter 用户名
