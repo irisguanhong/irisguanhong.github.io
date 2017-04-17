@@ -9,23 +9,24 @@ image: 170417-1.jpg
 Created 170417  
 By Iris
 
-# How To Be an Inventor
-— Notes After Reading “The Innovation Algorithm”
+Reading notes from “The Innovation Algorithm”
 
 # Psychological Barriers
 ## What stops invention
 ### “one of the eternal problem”
 “Invention problems always have an intimidating tinge”. 
 If it is a mathematical problem, people know if it is solvable or unbeatable with knowledge and experience from the past. But when it comes to invention problems, the problem always come as “one of the eternal problem”, intimidating people from every respect. It doesn’t matter if it is difficult problem. **Not everyone can show the bravery needed to conquer an “eternal problem”.  ** — 我也没有。当我发现这个问题进入貌似没解的状态，我就停了。
-### The story we all heard — 3 phases of innovators’ creativity ( search, waiting period, illumination)
+### The story of 3 phases of innovators’ creativity ( search, waiting period, illumination)
 We all heard the story of how great inventions come to inventors’ mind. 
 First, an inventor intensely and unsuccessfully searches for a solutions;
 Second, having not solved the problem, he stops thinking about it. 
 Third, some time passes, and suddenly, as if a delayed-action mechanism goes off — “as it by itself” — the required solutions appears. 
 
-False Impression: We highlight the 3rd phase”suddenly an idea appears” and conclude that the path of innovation is not traceable.  
+#### False Impression: 
+We highlight the 3rd phase”suddenly an idea appears” and conclude that the path of innovation is not traceable.  
 
-“Aha “ : 2nd phases helps break the habitual “bond”. 
+#### “Aha “ : 
+2nd phases helps break the habitual “bond”. 
 Phase 1 Search: A problem is formulated ( with terminology possessing inertia, and secretly forces thought into the direction opposite to where new ideas are present. )
 ![]()
 ![]()
@@ -45,9 +46,9 @@ Theoretically, all this is simple: just don’t be afraid of the word “ imposs
 1. time;  
 2. direction
 3. the arsenal of technology continually grows.
+
 ### “Aha” moment for breaking Psychological Barriers , challenging status quo:
 Imagination must be systematically developed through special exercises. 
-
 1. An imaginary planet, Arktur IV.
 Its surface temperature is 100’ lower than on Earth, its atmosphere consists of methane, its oceans are made of ammonia, its gravity is ten times stronger than Earth’s, and its intelligent beings are birds. 
 Think about automobiles, or houses for Arktura IV. This actually was an interview question from Google. 
@@ -117,15 +118,14 @@ Nature didn’t develop higher level heuristic methods because of the lengthy ti
 3. Brainstorming
 ![]()
 4. Synectics Method
-Direct Analogy
-Personal Analogy
-Symbolic Analogy
-Imaginary Analogy
+- Direct Analogy
+- Personal Analogy
+- Symbolic Analogy
+- Imaginary Analogy
 
 ## There is a systematic way
 1. Ideal Machine — IFR
 The “Ideal Machine” is a fundamental concept of inventive methodology. 
-
 2. Technical Contradiction
 An invention is the removal of technical contradictions. People cannot become an inventor if you don’t learn to clearly see the contradictions in objects.
 
