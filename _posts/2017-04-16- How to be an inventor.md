@@ -1,15 +1,14 @@
 ---
 layout: post
-title:  How to be an inventor
-subtitle: Reading notes from “The Innovation Algorithm”
+title:  How To Be An Inventor
 categories: blog
-description: An invention is the removal of technical contradictions. Ideal Machine helps to determine** the direction to search**, while the Technical contradiction indicates **the obstacle that must be removed. **
+description: An invention is the removal of technical contradictions. Ideal Machine helps to determine__ the direction to search__, while the Technical contradiction indicates __the obstacle that must be removed. __
 image: 170417-1.jpg
 ---
 Created 170417  
 By Iris
 
-Reading notes from “The Innovation Algorithm”
+Takeaways of Reading "The Inovtaion Algorithm”
 
 # Psychological Barriers
 ## What stops invention
@@ -26,7 +25,7 @@ Third, some time passes, and suddenly, as if a delayed-action mechanism goes off
 We highlight the 3rd phase”suddenly an idea appears” and conclude that the path of innovation is not traceable.  
 
 #### “Aha “ : 
-2nd phases helps break the habitual “bond”. 
+2nd phases helps break the habitual “bond”.   
 Phase 1 Search: A problem is formulated ( with terminology possessing inertia, and secretly forces thought into the direction opposite to where new ideas are present. )
 ![]()
 ![]()
