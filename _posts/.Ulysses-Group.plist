@@ -36,14 +36,14 @@
 					<integer>2</integer>
 				</dict>
 			</dict>
-			<key>2017-04-16- How To Be an Inventor.md</key>
+			<key>2017-04-16- How to be an inventor.md</key>
 			<dict>
 				<key>lastModification</key>
-				<real>514083116.97608697</real>
+				<real>514083883.23233098</real>
 				<key>version</key>
 				<dict>
 					<key>f7577f3bfbca40e41f6949fd3e6c40493d8e7fbde5dacf4a4ec9f8afc78b01a8</key>
-					<integer>7</integer>
+					<integer>8</integer>
 				</dict>
 			</dict>
 			<key>Template.md</key>
@@ -81,7 +81,7 @@
 	<key>sheetClusters</key>
 	<array>
 		<array>
-			<string>2017-04-16- How To Be an Inventor.md</string>
+			<string>2017-04-16- How to be an inventor.md</string>
 		</array>
 		<array>
 			<string>2016-07-11-The Possibilities.md</string>
@@ -109,7 +109,7 @@
 		<key>sheetClusters</key>
 		<dict>
 			<key>f7577f3bfbca40e41f6949fd3e6c40493d8e7fbde5dacf4a4ec9f8afc78b01a8</key>
-			<integer>7</integer>
+			<integer>8</integer>
 		</dict>
 	</dict>
 </dict>
