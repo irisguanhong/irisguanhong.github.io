@@ -7,6 +7,7 @@ image: 170417-1.jpg
 ---
 
 Takeaways of Reading [The Innovation Algorithm][1]
+
 Created 170417  
 By Iris
 
@@ -62,17 +63,16 @@ i used to like keep this quote as my motto. But now I think it might be wrong. I
 ## The value of SF
 ### What SF means to our life
 ![][image-7]
-### The power of Fantasy
+### The Power of Fantasy
 Science fiction literature is the way to increase imagination and visualize the solution. SF helps** overcome psychological barriers** on the road to “crazy”ideas without which science cannot continue its development. Whatever a human being can imagine, others can make reality.  The bold idea has a higher probability of realization than the conservative one. 
-### Examples?
-1. *Wall-E* Eva
+### Examples
+1. Eva from Wall-E 
 ![][image-8]
-2.  3D print
-![][image-9]
-3. GPS Tracking
+2.  3D print from Doraemon
 
-4. iRobot
-![][image-10]
+3. GPS Tracking from Doraemon
+4. iRobot from Doraemon
+![][image-9]
 5. Wheelless car — hovercraft
 
 #### the SF scientists
@@ -97,66 +97,61 @@ It increase an inventor’s creative potential.
 8. Make correct the choice of task
 
 
-# The Innovation Algorithm - Remove / reduce contradictions
+# The Innovation Algorithm - Remove contradictions
 ## The inventions
 ### Five level of inventions
 Altshuller analyzed 14 classes of inventions from 1965-1969 revealing the following dispersal:
-![][image-11]
-
+![][image-10]
 1.  77% of registered inventions represent only **new designs**.
 2.  Sub-levels of Level Five, and the higher ones are involved with the utilization of **new discoveries**.
 3.  It is typical that today’s inventive creativity belongs in the range between the Third and mid-Fifth Levels.
-“A-ha” - this is also explained, why design is not the one, at least not the only important one to make difference. 
-### Traditional method to get invention
+#### “A-ha” :
+this is also explained, why design is not the one, at least not the only important one to make difference. 
+
+### Traditional Method to Get Invention
 The tragedy of the inventing process is that people use methods for higher level problem solving that are relevant only to the lower levels. 
 1. Trail and error - weakness: efficiency
-![][image-12]
+![][image-11]
 [IMG][2]
 2. Heuristic Method (reduce cognitive loads through categorization, etc)
 Nature didn’t develop higher level heuristic methods because of the lengthy time needed for each cycle. A person simply did not have time to accumulate heuristic experience while developing one or two Fourth Level inventions. 
 
 3. Brainstorming
-![][image-13]
+![][image-12]
 4. Synectics Method
 - Direct Analogy
 - Personal Analogy
 - Symbolic Analogy
 - Imaginary Analogy
 
-## There is a systematic way
-1. Ideal Machine — IFR
+## There Is a Systematic Way
+1. **Ideal Machine — IFR
 The “Ideal Machine” is a fundamental concept of inventive methodology. 
-2. Technical Contradiction
+2. **Technical Contradiction
 An invention is the removal of technical contradictions. People cannot become an inventor if you don’t learn to clearly see the contradictions in objects.
 
 Utilizing the concepts of **Ideal machine** and **Technical Contradiction **make it possible to substantially control the process of solving inventive problems. Ideal Machine helps to determine** the direction to search**, while the Technical contradiction indicates **the obstacle that must be removed. **
 
 The essence of a theory for creativity lies in this: problems today that are considered creative can be solved on a new level of structured mental processes that will not exist until tomorrow. 
 
-by contradictions
-3. Operator STC
 
-### Before we start — the pitfall — define the problem
-An isolated contradiction doesn’t appear all by itself. It is necessary to find a way to remove it. 
-#### How the question is given
 
-#### The importance of the context
 
-### One of the systematic way — TRIZ 071
+
+to be continued
 
 [1]:	https://www.amazon.com/Innovation-Algorithm-systematic-innovation-creativity/dp/0964074044 "The Innovation Algorithm"
-[2]:	/images//170417-15
+[2]:	/images//170417-15.jpg
 
 [image-1]:	/images//170417-2.jpg
 [image-2]:	/images//170417-3.jpg
 [image-3]:	/images//170417-4.jpg
 [image-4]:	/images//170417-5.jpg
-[image-5]:	/images//170417-6.jpg
-[image-6]:	/images//170417-7.jpg
-[image-7]:	/images//170417-8.jpg
+[image-5]:	/images//170417-8.jpg
+[image-6]:	/images//170417-6.jpg
+[image-7]:	/images//170417-7.jpg
 [image-8]:	/images//170417-9.jpg
-[image-9]:	/images//170417-10.jpg
-[image-10]:	/images//170417-11
-[image-11]:	/images//170417-12
-[image-12]:	/images//170417-14
-[image-13]:	/images//170417-13
+[image-9]:	/images//170417-11
+[image-10]:	/images//170417-12.jpg
+[image-11]:	/images//170417-14.jpg
+[image-12]:	/images//170417-13.jpg
