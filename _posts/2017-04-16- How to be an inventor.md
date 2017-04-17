@@ -139,6 +139,19 @@ The essence of a theory for creativity lies in this: problems today that are con
 
 
 to be continued
+1. 三个科幻作家还没有写- — 不重要
+2. 重要的是需要重新读这本书的中文版，确保英文版正确的理解了。
+3. 重要的是开始做练习 — 练习TRIZ的方法 — 这个是最重要的，让我能够不光是拥有理论，而且真真正正的拥有创新的，定义问题，找到IFR，找到controdictory的能力。**如果我真的能够清楚定义问题，接受矛盾，打破心里界限，沿着IFR的方向解决问题，那我product design的思路，解决问题的思路就一下子打开了**
+by contradictions
+3. Operator STC
+
+### Before we start — the pitfall — define the problem
+An isolated contradiction doesn’t appear all by itself. It is necessary to find a way to remove it. 
+#### How the question is given
+
+#### The importance of the context
+
+### One of the systematic way — TRIZ 071
 
 [1]:	https://www.amazon.com/Innovation-Algorithm-systematic-innovation-creativity/dp/0964074044 "The Innovation Algorithm"
 [2]:	/images//170417-15.jpg
