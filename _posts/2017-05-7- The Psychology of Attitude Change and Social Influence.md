@@ -4,7 +4,7 @@ title:  Notes - The Psychology of Attitude Change and Social Influence
 featured: false
 author: Iris
 tags:
-image: '/images/posts/170507-1.gif'
+image: '/images/posts/160810.png’
 
 ---
 
