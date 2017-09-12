@@ -1,9 +1,11 @@
 ---
 layout: post
 title:  Notes - The Psychology of Attitude Change and Social Influence
-categories: blog
-description: 
-image: 170507-1.gif
+featured: false
+author: Iris
+tags:
+image: '/images/posts/170507-1.gif'
+
 ---
 
 Takeaways of Reading *The Psychology of Attitude Change and Social Influence*
