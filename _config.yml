@@ -15,7 +15,7 @@ github_username:  irisguanhong
 #twitter_username: aspirethemes
 
 markdown:  kramdown
-permalink: /:categories/:title
+permalink: pretty
 paginate:  12
 sass:
   style: compressed
