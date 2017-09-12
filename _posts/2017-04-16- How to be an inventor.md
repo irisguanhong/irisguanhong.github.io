@@ -15,24 +15,24 @@ By Iris
 ## What Stops Invention
 ### “One of the Eternal Problems”
 “Invention problems always have an intimidating tinge”. 
-If it is a mathematical problem, people know if it is solvable or unbeatable with knowledge and experience from the past. But when it comes to invention problems, the problem always come as “one of the eternal problem”, intimidating people from every respect. It doesn’t matter if it is difficult problem. **Not everyone can show the bravery needed to conquer an “eternal problem”.  ** — *我也没有。当我发现这个问题进入貌似没解的状态，我就停了。
+If it is a mathematical problem, people know if it is solvable or unbeatable with knowledge and experience from the past. But when it comes to invention problems, the problem always come as “one of the eternal problem”, intimidating people from every respect. It doesn’t matter if it is difficult problem. **Not everyone can show the bravery needed to conquer an “eternal problem”.  ** — \*我也没有。当我发现这个问题进入貌似没解的状态，我就停了。
 ### 3 Phases of Innovators’ Creativity
 We all heard the story of how great inventions come to inventors’ mind. 
 1. An inventor intensely and unsuccessfully searches for a solutions;
 2. Having not solved the problem, he stops thinking about it. 
 3. Some time passes, and suddenly, as if a delayed-action mechanism goes off — “as it by itself” — the required solutions appears. 
 
-#### False Impression: 
+#### False Impression:
 When we heard this kind of stories, we highlight the 3rd phase”suddenly an idea appears” and conclude that the path of innovation is not traceable.  
 
-#### “Aha “ : 
+#### “Aha “ :
 What we didn’t realize but more important is that **2nd phases helps break the habitual “bond”. **
 1. Search: A problem is formulated ( with terminology possessing inertia, and secretly forces thought into the direction opposite to where new ideas are present. )
 ![][image-1]
 ![][image-2]
-2. Waiting Period: the interaction between parts are weaken and weaken until they break completely. 
+2. Waiting Period: the interaction between parts are weaken and weaken until they break completely.
 ![][image-3]
-3. Illumination: Then the inventor can easily reposition the parts, change the character of the interaction between them as so on. As a result, a new formation of the system appears. 
+3. Illumination: Then the inventor can easily reposition the parts, change the character of the interaction between them as so on. As a result, a new formation of the system appears.
 ![][image-4]
 
 ### Machines are born weak, slowly gaining strength by absorbing many inventions. (Part 1-5)
@@ -66,7 +66,7 @@ i used to like keep this quote as my motto. But now I think it might be wrong. I
 ### The Power of Fantasy
 Science fiction literature is the way to increase imagination and visualize the solution. SF helps** overcome psychological barriers** on the road to “crazy”ideas without which science cannot continue its development. Whatever a human being can imagine, others can make reality.  The bold idea has a higher probability of realization than the conservative one. 
 ### Examples
-1. Eva from Wall-E 
+1. Eva from Wall-E
 ![][image-8]
 2.  3D print from Doraemon
 
@@ -119,15 +119,15 @@ Nature didn’t develop higher level heuristic methods because of the lengthy ti
 3. Brainstorming
 ![][image-12]
 4. Synectics Method
-- Direct Analogy
-- Personal Analogy
-- Symbolic Analogy
-- Imaginary Analogy
+2. Direct Analogy
+3. Personal Analogy
+4. Symbolic Analogy
+5. Imaginary Analogy
 
 ## There Is a Systematic Way
-1. **Ideal Machine — IFR
+1. \*\*Ideal Machine — IFR
 The “Ideal Machine” is a fundamental concept of inventive methodology. 
-2. **Technical Contradiction
+2. \*\*Technical Contradiction
 An invention is the removal of technical contradictions. People cannot become an inventor if you don’t learn to clearly see the contradictions in objects.
 
 Utilizing the concepts of **Ideal machine** and **Technical Contradiction **make it possible to substantially control the process of solving inventive problems. Ideal Machine helps to determine** the direction to search**, while the Technical contradiction indicates **the obstacle that must be removed. **
@@ -144,6 +144,11 @@ to be continued
 3. 重要的是开始做练习 — 练习TRIZ的方法 — 这个是最重要的，让我能够不光是拥有理论，而且真真正正的拥有创新的，定义问题，找到IFR，找到controdictory的能力。**如果我真的能够清楚定义问题，接受矛盾，打破心里界限，沿着IFR的方向解决问题，那我product design的思路，解决问题的思路就一下子打开了**
 by contradictions
 3. Operator STC
+
+
+什么是peppo提到的S曲线？
+隐喻是人类是通过思考空间的方式在思考时间的？？？
+创新的本质是，essence of innovation is that people trying to solving the problem with the solution doesn’t existed today, but will be common with the systematic thinking in the future. 
 
 ### Before we start — the pitfall — define the problem
 An isolated contradiction doesn’t appear all by itself. It is necessary to find a way to remove it. 

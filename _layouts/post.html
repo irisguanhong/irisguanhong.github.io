@@ -1,51 +1,60 @@
 ---
 layout: default
-body_class: post-template
 ---
-{% if page.image %}
-<div id="feature_image">
-  <div class="inner" style="background-image: url('{{ site.baseurl }}/images//{{ page.image }}')">
-    <img src='{{ site.baseurl }}/images/{{ page.image }}'>
-    </div>
-</div>
-{% endif %}
 
-<article role="main" class="{% if page.image %}image{% endif %}">
-    <header>
-      <a href="{{ site.baseurl }}/" id="home_link">«</a>
-      <div class="meta"><time datetime="{{ page.date | date:'%Y-%m-%d' }}"><a href="{{ page.url }}">{{ page.date | date: "%B %d, %Y" }}</a></time>
-        <span class="count" id="js-reading-time">&nbsp;</span>
+{% include base_path %}
+
+{% assign author = site.authors[page.author] %}
+
+<div class="wrapper">
+  <div class="row">
+
+    {% if page.image %}
+      <div class="column column--center medium-10 large-10">
+        <div class="grey-bg CoverImage FlexEmbed FlexEmbed--16by9" style="background-image: url({{ page.image | prepend: site.baseurl }})"></div>
       </div>
-      <h1>{{ page.title }}</h1>
-    </header>
+    {% endif %}
 
-    <div class="text" id="js-post-content">
-        {{ content }}
+    <div class="column column--center medium-10 large-10">
+      <article class="post {% unless page.image %} post--no-image {% endunless %}" itemscope itemtype="http://schema.org/BlogPosting">
+
+        {% if page.image %}
+          <meta itemprop="og:image" content="{{ base_path }}{{ page.image }}">
+        {% endif %}
+
+        <header class="text-center post__header">
+          <h2 class="post__title" itemprop="name headline">{{ page.title }}</h2>
+          <time class="post__date" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%b %-d, %Y" }}</time>
+        </header>
+
+        <div class="post-content" itemprop="articleBody">
+          {{ content }}
+        </div>
+
+        <div class="row">
+          <div class="column large-10">
+            <div class="post__tags">
+              {% for tag in page.tags %}
+                <a href="{{ site.baseurl }}/tag/{{ tag }}">{{ tag }}</a>
+              {% endfor %}
+            </div>
+          </div>
+          <div class="column large-2">
+            {% include share.html %}
+          </div>
+        </div>
+
+        <hr>
+
+        {% if page.author %}
+          {% include author.html %}
+        {% endif %}
+
+        <hr>
+        {% include disqus.html %}
+
+      </article>
     </div>
 
-    <div id="disqus_thread"></div>
-    <script>
-    /**
-     *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
-     *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables
-     */
-    /*
-    var disqus_config = function () {
-        this.page.url = PAGE_URL;  // Replace PAGE_URL with your page's canonical URL variable
-        this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
-    };
-    */
-    (function() {  // DON'T EDIT BELOW THIS LINE
-        var d = document, s = d.createElement('script');
-        
-        s.src = '//{{ site.disqus }}.disqus.com/embed.js';
-        
-        s.setAttribute('data-timestamp', +new Date());
-        (d.head || d.body).appendChild(s);
-    })();
-    </script>
-    <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript" rel="nofollow">Comments powered by Disqus.</a></noscript>
-
-</article>
-
-{% include footer.html %}
+  </div> <!-- row-->
+</div> <!-- wrapper -->

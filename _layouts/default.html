@@ -1,36 +1,24 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 
-  {% include head.html %}
+{% include head.html %}
 
-  <body class="{{ page.body_class }}">
+<body>
+
+  {% include analytics.html %}
+
+  <div class="off-canvas-container">
+    {% include header.html %}
 
     {{ content }}
 
-    {{ if site.logo}}
-    <a href="{{ site.baseurl | prepend: site.url }}" id="blog_badge">
-            <span style="background-image:
-            url('{{ site.baseurl }}/images/{{ site.logo }}');">{{ site.name }}</span>
-        </a>
-    {{/if}}
+    {% include footer.html %}
+  </div>
 
-    <script>
-      function no_schema_links () {
-        var links = document.querySelectorAll('.js-remove-domain-schema');
-        if (links) {
-          for (i = 0; i < links.length; ++i) {
-            var link = links[i],
-              text = link.innerHTML,
-            no_schema = text.replace(/.*?:\/\//g, "");
-            link.innerHTML = no_schema;
-          }
-        }
-      }
-
-      window.onload = function () {
-        no_schema_links();
-      }
-    </script>
-  </body>
+  <script src="{{ '/js/jquery-2.1.4.min.js' | prepend: site.baseurl }}"></script>
+  <script src="{{ '/js/evil-icons.min.js' | prepend: site.baseurl }}"></script>
+  <script src="{{ '/js/jquery.fitvids.js' | prepend: site.baseurl }}"></script>
+  <script src="{{ '/js/script.js' | prepend: site.baseurl }}"></script>
+</body>
 
 </html>
