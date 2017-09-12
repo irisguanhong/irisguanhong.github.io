@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: About Ms
 permalink: /about/
 image: '/images/pages/about.jpeg'
 ---
