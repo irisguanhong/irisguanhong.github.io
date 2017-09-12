@@ -1,7 +1,17 @@
 ---
 layout: page
 title: About
+permalink: /about/
 image: '/images/pages/about.jpeg'
 ---
+我是一个爱做梦的人。我梦想着在有生之年，见天地，见自己，见众生。
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+离开大学快十年了。过去的十年里，我在英国的科技公司编程，在荷兰的NGO管项目，在波士顿的学校读MBA， 在新加坡自己创业，现在在硅谷做产品。
+
+我对人有着无止境的好奇。旅行在路上，我喜欢跟当地人交谈。在土耳其算命，在印度参加婚礼，在埃及听故事，在圣彼得堡看人来人往。陌生人的故事让我好奇，他们完整了我的旅程。
+
+我的爱好不算多也不算少。手风琴，crossfit，游泳，潜水，古典音乐，开车，看书和有意思的电影。它们，让我更好的感受自己。
+
+当然，我是一个life learner，从EE到计算机，到管理，到设计，再到产品和数据分析，我不断地学下去，我看到人文，我看到自己的局限。每一次突破自己的局限，我就仿佛打开一扇新的大门，看到更广阔的世界。
+
+有生之年，希望自己玩的尽兴。
