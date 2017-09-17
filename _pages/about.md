@@ -1,8 +1,8 @@
 ---
 layout: page
-title: About Ms
-permalink: /about/
-image: '/images/pages/about.jpeg'
+title: About Me
+permalink: /about
+image: '/images/pages/about.jpg'
 ---
 我是一个爱做梦的人。我梦想着在有生之年，见天地，见自己，见众生。
 
