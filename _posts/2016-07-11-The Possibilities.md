@@ -1,9 +1,9 @@
 ---
 layout: post
 title:  可能性
-categories: blog
-description: 今年，我时不时的感觉到被幸福包围。这种幸福，来自于我看到的生命的可能性。不是存在的可能性，而是我能够让它发生，我能够拥有它的可能性。有希望，本身就是幸福。有时间，有空间，能够静下心实践，这是最大的幸福。
-image: xihu.jpg
+Featured: ture
+author: Iris
+image: /images/posts/roon.jpg
 ---
 Created 160711  
 By Iris

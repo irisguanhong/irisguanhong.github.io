@@ -1,8 +1,9 @@
 ---
 layout: post
-title:  “写在PM四年三月未满时”
-description: 我并不追求自己成为谁。既然我开始有意识的锤炼判断力，提升应变能力，那么我应该更加结果导向，时刻拥抱变化，不停矫正通往满足需要的产品的路径。有越来越好的判断力，越来越多的产品掌控力，我终有一天会做出一款有影响力的产品。
-image: header.jpg
+title:  写在PM四年三月未满时
+Featured: ture
+author: Iris
+image: /images/posts/170417-8.jpg
 ---
 
 写在PM四年三月未满时
