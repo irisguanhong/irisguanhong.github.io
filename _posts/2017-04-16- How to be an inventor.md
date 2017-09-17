@@ -3,7 +3,7 @@ layout: post
 title:  How To Be An Inventor
 featured: true
 author: Iris
-image: ‘/images/posts/170417-1.jpg’
+image: /images/posts/170417-1.jpg
 ---
 
 Takeaways of Reading [The Innovation Algorithm][1]
