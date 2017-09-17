@@ -1,9 +1,9 @@
 ---
 layout: post
 title:  How To Be An Inventor
-categories: blog
-description: An invention is the removal of technical contradictions. Ideal Machine helps to determine the direction to search, while the Technical contradiction indicates the obstacle that must be removed. 
-image: 170417-1.jpg
+featured: true
+author: Iris
+image: ‘/images/posts/170417-1.jpg’
 ---
 
 Takeaways of Reading [The Innovation Algorithm][1]
